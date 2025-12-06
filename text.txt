@@ -5,17 +5,3 @@ This guide covers integration with:
 
 Okta
 Entra ID SAML 2.0
-Azure Connect (OIDC)
-MDM solutions like Intune
-Modules
-Communication and information gathering
-Gather your company's requirements from key stakeholders and communicate to your developers.
-
-Finalize plans and begin setup
-Collaborate with your MDM team to distribute configurations and set up SSO and Docker product trials.
-
-Testing
-Test your Docker setup.
-
-Deploy your Docker setup
-Deploy your Docker setup across your company.
